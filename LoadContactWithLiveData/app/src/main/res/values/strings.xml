@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoadContactWithLiveData</string>
+    <string name="no_data_found">No Contact found</string>
+    <dimen name="text_size_20">20sp</dimen>
+</resources>
